@@ -39,6 +39,6 @@ int sendMsg(char *pMsgData)
 
 int main()
 {
-    int rc = sendMsg("Hello world!");
+    int rc = sendMsg("Welcome to AS45G training course!");
     return 0;
 }
